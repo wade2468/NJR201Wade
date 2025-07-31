@@ -5,6 +5,12 @@ name = "pypi"
 
 [packages]
 flask = "==2.3.3"
+pandas = "*"
+loguru = "*"
+sqlalchemy = "*"
+apscheduler = "*"
+requests = "*"
+celery = "*"
 
 [dev-packages]
 

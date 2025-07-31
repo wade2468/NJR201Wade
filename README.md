@@ -1,3 +1,6 @@
+# 刪除Ubuntu
+wsl --unregister Ubuntu-22.04
+
 # 在Ubuntu 安裝pyenv
 sudo apt-get update
 sudo apt install curl git bzip2 -y
