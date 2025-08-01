@@ -10,7 +10,7 @@ loguru = "*"
 sqlalchemy = "*"
 apscheduler = "*"
 requests = "*"
-celery = "*"
+celery = "==5.5.0"
 
 [dev-packages]
 
